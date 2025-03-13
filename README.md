@@ -72,8 +72,7 @@ The user is notified of the registration outcome via JOptionPane.
 
 1.  Clone the repository:
    ```bash
-   git clone https://github.com/Ananna-15/Calculator.git
-   cd Calculator
+   gh repo clone Ananna-15/-SwingUserReg-
 ```
 
 2. Create MySQL Database and Table:
