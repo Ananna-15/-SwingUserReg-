@@ -77,9 +77,7 @@ The user is notified of the registration outcome via JOptionPane.
 
 2. Create MySQL Database and Table:
 ```bash
-sql
-Copy
-Edit
+
 CREATE DATABASE swing_demo;
 
 USE swing_demo;
@@ -100,9 +98,6 @@ Add it to your project's build path in your IDE.
 4. Update Database Credentials
 In UserRegistration.java:
 ```
-java
-Copy
-Edit
 Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/swing_demo", "root", "your_mysql_password");
 ```
 
@@ -111,7 +106,7 @@ Compile and run UserRegistration.java in your IDE.
 Fill in the form and click Register.
 
 
-**🚀 Future Improvements (Optional)**
+**🚀 Future Improvements**
 
 
 ✅ Password hashing for better security
