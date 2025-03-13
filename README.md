@@ -19,8 +19,6 @@ This is a User Registration System built with Java Swing for the frontend and My
 
 ✅ Provides feedback messages for success or validation failures
 
-✅ Responsive and resizable window
-
 
 **💻 Technologies Used**
 
