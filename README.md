@@ -1,4 +1,4 @@
-#**User Registration Form - Java Swing with MySQL Integration**
+**User Registration Form - Java Swing with MySQL Integration**
 
 
 This is a User Registration System built with Java Swing for the frontend and MySQL for backend database management. The application allows users to enter their personal details and register an account, which gets stored securely in the MySQL database.
@@ -6,7 +6,9 @@ This is a User Registration System built with Java Swing for the frontend and My
 <div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Swing-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </div>
 
 
-##📌 Features
+##**📌 Features**![Screenshot 2025-03-13 122609](https://github.com/user-attachments/assets/9288b0a3-ecd2-40cf-912b-aa9f58383548)
+![Screenshot 2025-03-13 122609](https://github.com/user-attachments/assets/d242369d-aef3-4445-90f6-bac4f004da4e)
+
 
 ✅ Beautiful Graphical User Interface (GUI) built with Java Swing
 
@@ -21,7 +23,7 @@ This is a User Registration System built with Java Swing for the frontend and My
 ✅ Responsive and resizable window
 
 
-##💻 Technologies Used
+**💻 Technologies Used**
 
 | Frontend    | Backend    | Database |
 |-------------|------------|----------|
@@ -31,9 +33,9 @@ This is a User Registration System built with Java Swing for the frontend and My
 
 Registration Form (Java Swing UI)
 
+https://1drv.ms/i/c/ec3f7f05a4aed0cc/EaH0Yl1yuapAhQX9tUXodt0Bd9pO_PEgrK29Y_mUZOq8WQ?e=ox9Fvq
 
-
-⚙️ How It Works
+**⚙️ How It Works**
 User Input
 Users enter personal details in the registration form (First Name, Last Name, Email, Username, Password, and Mobile Number).
 
