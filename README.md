@@ -114,9 +114,9 @@ Fill in the form and click Register.
 
 ✅ Login authentication system
 
-✅ CRUD functionality (Update, Delete users)
+✅ CRUD functionality (Update users)
 
-✅ Responsive design with better UI/UX
+
 
 
 **🤝 Contributing**
