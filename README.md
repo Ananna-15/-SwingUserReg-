@@ -1,4 +1,4 @@
-**User Registration Form - Java Swing with MySQL Integration**
+#User Registration Form - Java Swing with MySQL Integration
 
 
 This is a User Registration System built with Java Swing for the frontend and MySQL for backend database management. The application allows users to enter their personal details and register an account, which gets stored securely in the MySQL database.
