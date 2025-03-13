@@ -21,13 +21,16 @@ This is a User Registration System built with Java Swing for the frontend and My
 ✅ Provides feedback messages for success or validation failures
 
 
+
 **💻 Technologies Used**
+
 
 | Frontend    | Backend    | Database |
 |-------------|------------|----------|
 | Java Swing  | Java JDBC  | MySQL    |
 
-##📸 Screenshots
+
+**📸 Screenshots**
 
 Registration Form (Java Swing UI)
 
